@@ -1,0 +1,18 @@
+{
+  "name": "cal-bar",
+  "version": "1.0.0",
+  "description": "Simple calendar menubar application",
+  "main": "main.js",
+  "repository": "https://github.com/simcard0000/cal-bar.git",
+  "author": "simcard0000 <simran.thind@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "menubar": "^9.4.0"
+  },
+  "devDependencies": {
+    "electron": "^28.1.4"
+  },
+  "scripts": {
+    "start": "electron main.js"
+  }
+}
